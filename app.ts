@@ -8,7 +8,7 @@ class HelloWorldComponent {
 	location: string;
 	name: string;
 	constructor() {
-		this.name = 'Jane Doe';
+		this.name = 'World';
 		this.location = 'Angular 2';
 	}
 }
