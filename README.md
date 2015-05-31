@@ -11,7 +11,7 @@ tsd reinstall
 ```
 1. Rebuild the application:
 ```
-tsc -m commonjs -t es5 --emitDecoratorMetadata app.ts
+tsc
 ```
 1. Run the server on port 8008 or whatever:
 ```
